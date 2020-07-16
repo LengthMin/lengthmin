@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently interesting in Flutter.
-- 😄 Languages: Python, JavaScript, TypeScript, Java, C/C++, Dart
+- 🔭 I’m currently interesting in VSCode Extensions.
+- 😄 Languages: Python, JavaScript, TypeScript
 - ⚡ Text Editors: VS Code, IDEA, PyCharm, CLion, Android Studio, Neovim
