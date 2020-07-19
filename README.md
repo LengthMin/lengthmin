@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/lengthmin/lengthmin.svg)](http://hits.dwyl.com/lengthmin/lengthmin)
 <!--
 a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/lengthmin/lengthmin.svg)](http://hits.dwyl.com/lengthmin/lengthmin)
 
 Here are some ideas to get you started:
 
