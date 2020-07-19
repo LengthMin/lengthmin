@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💬 Ask me about anything [here](https://github.com/lengthmin/lengthmin/issues)
 -->
-![Artin's github stats](https://github-readme-stats.vercel.app/api?username=lengthmin&show_icons=true)
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+[![Artin's github stats](https://github-readme-stats.vercel.app/api?username=lengthmin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently interesting in VSCode Extensions.
 - 😄 Languages: Python, JavaScript, TypeScript, Dart
 - ⚡ Text Editors: VS Code, IDEA, PyCharm, CLion, Android Studio, Neovim
