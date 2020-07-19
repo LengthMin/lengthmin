@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💬 Ask me about anything [here](https://github.com/lengthmin/lengthmin/issues)
 -->
-
+![Artin's github stats](https://github-readme-stats.vercel.app/api?username=lengthmin&show_icons=true)
 - 🔭 I’m currently interesting in VSCode Extensions.
-- 😄 Languages: Python, JavaScript, TypeScript
+- 😄 Languages: Python, JavaScript, TypeScript, Dart
 - ⚡ Text Editors: VS Code, IDEA, PyCharm, CLion, Android Studio, Neovim
