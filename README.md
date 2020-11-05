@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![Artin's github stats](https://github-readme-stats.vercel.app/api?username=lengthmin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 😄 Languages: Python, JavaScript, TypeScript, Rust
+- 😄 Languages: Python, JavaScript, TypeScript, Java/Kotlin
 - ⚡ Text Editors: VS Code, JetBrains, Neovim
