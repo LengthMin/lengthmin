@@ -5,7 +5,7 @@
 </a>
 
 
-- 😄 Languages: Python, JavaScript, TypeScript, Java/Kotlin
+- 😄 Languages of interest: Python, JavaScript, TypeScript, Java/Kotlin, Rust
 - ⚡ Text Editors: VS Code, JetBrains, Neovim
 - 💬 Ask me about anything [here](https://github.com/lengthmin/lengthmin/issues)
 
