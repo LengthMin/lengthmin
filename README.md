@@ -5,7 +5,6 @@
 </a>
 
 
-- 😄 Languages of interest: Python, JavaScript, TypeScript, Java/Kotlin, Rust
-- ⚡ Text Editors: VS Code, JetBrains, Neovim
+- 😄 Languages of interest: (Java/Type)Script, Java/Kotlin, Rust, Golang, Python
+- ⚡ Text Editors: VS Code, Neovim, JetBrains
 - 💬 Ask me about anything [here](https://github.com/lengthmin/lengthmin/issues)
-
